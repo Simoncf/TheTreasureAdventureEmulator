@@ -1,0 +1,9 @@
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\bin\Debug\netstandard2.0\TreasureAdventure.Models.deps.json
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\bin\Debug\netstandard2.0\TreasureAdventure.Models.dll
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\obj\Debug\netstandard2.0\TreasureAdventure.Models.csprojAssemblyReference.cache
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\obj\Debug\netstandard2.0\TreasureAdventure.Models.csproj.CoreCompileInputs.cache
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\obj\Debug\netstandard2.0\TreasureAdventure.Models.AssemblyInfoInputs.cache
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\obj\Debug\netstandard2.0\TreasureAdventure.Models.AssemblyInfo.cs
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\bin\Debug\netstandard2.0\TreasureAdventure.Models.pdb
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\obj\Debug\netstandard2.0\TreasureAdventure.Models.dll
+C:\projects\TheTreasureAdventureEmulator\TreasureAdventure.Models\obj\Debug\netstandard2.0\TreasureAdventure.Models.pdb
