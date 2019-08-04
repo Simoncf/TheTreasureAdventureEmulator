@@ -6,8 +6,16 @@ Navegate using the keys (N, S, W, E) viseted areas is indecated with the letter 
 you can exit the game at any time using the esc key.
 
 
+
 ## Posseble fixes for the future
 The maze can generate a maze that is impossoible to win,
 this is quite rare but is possible becuse the maze is randomly generated. 
 
-You press the key twise to navigate, you should only need to press the key once to navigate (Nice to have)
+You press the key twise to navigate, you should only need to press the key once to navigate (Nice to have).
+
+## Link to my other github
+[a link](https://github.com/Qualmeru)
+
+### Link to a simular project
+[a Link](https://github.com/Qualmeru/Luffarschack)
+
