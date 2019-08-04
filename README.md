@@ -17,5 +17,5 @@ You press the key twise to navigate, you should only need to press the key once 
 
 [Link to my other github](https://github.com/Qualmeru)
 
-[Link to a simular project](https://github.com/Qualmeru/Luffarschack)
+[Link to a simular project i made 8 years ago :) ](https://github.com/Qualmeru/Luffarschack)
 
