@@ -14,8 +14,8 @@ this is quite rare but is possible becuse the maze is randomly generated.
 You press the key twise to navigate, you should only need to press the key once to navigate (Nice to have).
 
 ## Link to my other github
-[a link](https://github.com/Qualmeru)
 
-### Link to a simular project
-[a Link](https://github.com/Qualmeru/Luffarschack)
+[Link to my other github](https://github.com/Qualmeru)
+
+[Link to a simular project](https://github.com/Qualmeru/Luffarschack)
 
