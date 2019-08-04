@@ -1,6 +1,6 @@
 # TheTreasureAdventureEmulator
 This is a treasure adventure game/ emulator
-This game generates a maze with one tresure and seviral traps. 
+This game generates a maze with one treasure and several traps.
 You cannot see the walls, traps or tressure untill you find them.
 Navegate using the keys (N, S, W, E) viseted areas is indecated with the letter v.
 you can exit the game at any time using the esc key.
